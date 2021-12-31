@@ -1,0 +1,3 @@
+vue create pdf-file   : cria o projeto pdf generator
+npm install jspdf --save   ; instalar o jspdf que gera o pdf
+npm run serve: rodar o projeto apenas na porta 8080
